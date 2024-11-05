@@ -1,0 +1,74 @@
+#happy {
+    position: absolute;
+    margin-top: 30vh;
+    width: 100%;
+    text-align: center;
+    font-size: 333%;
+    font-family: sans-serif;
+    color: grey;
+    opacity: 0.5;
+}
+
+#happyP1 {
+  position: absolute;
+  margin-top: 50vh;
+  width: 100%;
+  text-align: center;
+  font-size: 150%;
+  font-family: sans-serif;
+  color: grey;
+  opacity: 0.5;
+}
+
+#happyP2 {
+  position: absolute;
+  margin-top: 60vh;
+  width: 100%;
+  text-align: center;
+  font-size: 150%;
+  font-family: sans-serif;
+  color: grey;
+  opacity: 0.5;
+}
+
+#happyP3 {
+  position: absolute;
+  margin-top: 70vh;
+  width: 100%;
+  text-align: center;
+  font-size: 150%;
+  font-family: sans-serif;
+  color: grey;
+  opacity: 0.5;
+}
+
+#happyP4 {
+  position: absolute;
+  margin-top: 80vh;
+  width: 100%;
+  text-align: center;
+  font-size: 100%;
+  font-family: sans-serif;
+  color: grey;
+  opacity: 0.5;
+}
+
+canvas {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+}
+
+#button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: large;
+  background-color: aliceblue;
+}
+
+#button:hover{
+  background-color: antiquewhite;
+  opacity: 0.5;
+}
